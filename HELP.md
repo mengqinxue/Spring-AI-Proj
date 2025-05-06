@@ -14,3 +14,5 @@ While most of the inheritance is fine, it also inherits unwanted elements like `
 To prevent this, the project POM contains empty overrides for these elements.
 If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
 
+
+https://www.yuque.com/geren-t8lyq/ncgl94/yv5dnl8ohd7791n1?singleDoc
